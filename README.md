@@ -15,7 +15,4 @@ Use the search function to find a specific movie
 <h2>Support</h2>
 If you encounter any issues or have any questions, please contact me at amarbesirovic@gmail.com. I am always happy to help.
 
-<h2>Updates</h2>
-We are constantly working to improve the Movies App. Be sure to keep your app updated for the best experience.
-
 Enjoy the Movies App!
